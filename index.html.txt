@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Effective Date:</strong> 21-05-2025</p>
+  <p><strong>App Name:</strong> Mobile Discourager </p>
+  <p><strong>Developer:</strong> AI Future Gen Pvt. Ltd.</p>
+
+  <h2>Information We Collect</h2>
+  <p>We do not collect personally identifiable information unless explicitly stated. The app uses the following permissions:</p>
+  <ul>
+    <li><strong>Accessibility Services</strong>: Used to detect and restrict selected apps. Data is processed locally.</li>
+    <li><strong>Overlay Permission</strong>: Required to block screen access.</li>
+    <li><strong>VPN Service</strong>: Used for monitoring internet locally without sending data externally.</li>
+    <li><strong>Usage Stats</strong>: Tracks app usage time for parental control.</li>
+  </ul>
+
+  <h2>Data Storage and Usage</h2>
+  <p>All data is processed locally. No personal data or browsing history is stored or transmitted externally.</p>
+
+  <h2>Third-Party Services</h2>
+  <p>We do not use third-party ads or tracking SDKs. We may use Firebase for crash reporting and remote configuration only.</p>
+
+  <h2>Children’s Privacy</h2>
+  <p>The app is intended for use by parents/guardians. No data is knowingly collected from children under 13.</p>
+
+  <h2>User Control</h2>
+  <p>You can disable permissions or uninstall the app at any time to stop all tracking/control functionality.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have questions, contact us at: <strong>rag.raggupta@gmail.com</strong></p>
+</body>
+</html>
